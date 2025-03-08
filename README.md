@@ -1,10 +1,10 @@
-# Lógica Computacional (logica-computacional) 🧠💻
+# Exercícios de Pensamento Computacional e Programação (exerc-pc-prog) 💻🧠
 
-Repositório com exercícios de **lógica computacional** para ajudar no desenvolvimento do raciocínio lógico e na aplicação de conceitos de programação.
+Este repositório contém uma série de exercícios focados em **pensamento computacional** e **programação**, com o objetivo de ajudar a desenvolver habilidades em lógica de programação, resolução de problemas e conceitos fundamentais de computação.
 
 ## Como Usar 🚀
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/logica-computacional.git
-   cd logica-computacional
+   git clone https://github.com/seu-usuario/exerc-pc-prog.git
+   cd exerc-pc-prog
